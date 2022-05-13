@@ -1,0 +1,5 @@
+how to host this script on replit
+replit already create .replit as hidden folder you all need to write this on it 
+
+language = "python3"
+run = "python3 main.py"
